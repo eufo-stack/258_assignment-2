@@ -14,5 +14,5 @@ Models:
 - LFM, BPR
 - Text models, BERT
 
-Documentation:
+Documentation and Team:
 https://drive.google.com/file/d/1PWWga-QsukI6KnR34pvKl4InfSbD5gM3/view?usp=sharing
